@@ -1,3 +1,8 @@
+# Authors: Ufuk Topalan, Ismail Kudret Saglam
+# Written for: Genome-Wide Analysis Reveals Altitude-Associated
+#              Divergence in a Color-Polymorphic Insect (Topalan & Sağlam, 2026)
+# Repository: https://github.com/UfukTopalan/Genome-Wide-Analysis-Pipeline-for-Color-Polymorphic-Insect
+# ------------------------------------------------------------------
 ############################# Allele Frequency Trend #############################
 
 # Input (minor allele frequencies across altitudes)
