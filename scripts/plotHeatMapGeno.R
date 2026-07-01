@@ -4,7 +4,7 @@ library(tidyr)
 library(dplyr)
 
 # Load the data
-data <- read.table("/home/ismail/Research/isophya/indv_top3snp_v2.txt", header = TRUE, stringsAsFactors = FALSE)
+data <- read.table(".", header = TRUE, stringsAsFactors = FALSE)
 
 # Transform the data into long format for plotting
 data_long <- data %>%
