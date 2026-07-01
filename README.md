@@ -26,7 +26,7 @@ execution order) is documented in [`docs/Analyses_Pipeline_Topalan_Saglam_2026.p
 │   ├── plotIBD.R
 │   ├── plotIBDmulti.R
 │   ├── plotDiversity.R
-│   ├── plotMafTrend.R / plotMafTrend_v2.R
+│   ├── plotMafTrend.R 
 │   ├── cline_fitting_hzar_parboot.R
 │   ├── summarize_clines.R
 │   ├── plotDensity.R
