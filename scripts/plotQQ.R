@@ -1,4 +1,9 @@
-setwd("/home/ismail/Research/isophya/PCA/NEW/")
+# Authors: Ufuk Topalan, Ismail Kudret Saglam
+# Written for: Genome-Wide Analysis Reveals Altitude-Associated
+#              Divergence in a Color-Polymorphic Insect (Topalan & Sağlam, 2026)
+# Repository: https://github.com/UfukTopalan/Genome-Wide-Analysis-Pipeline-for-Color-Polymorphic-Insect
+# ------------------------------------------------------------------
+setwd(".")
 
 # read loadings
 loadings <- read.table("isophya71.pca.loadings", header = TRUE)
