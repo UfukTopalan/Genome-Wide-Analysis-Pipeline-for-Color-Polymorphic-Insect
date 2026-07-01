@@ -1,7 +1,12 @@
+# Author(s): Ufuk Topalan, [Supervisor Name]
+# Written for: Genome-Wide Analysis Reveals Altitude-Associated
+#              Divergence in a Color-Polymorphic Insect (Topalan & Sağlam, 2026)
+# Repository: https://github.com/UfukTopalan/Genome-Wide-Analysis-Pipeline-for-Color-Polymorphic-Insect
+# ------------------------------------------------------------------
 library(ggplot2)
 
 # Load the data
-data <- read.csv("/home/ismail/Research/isophya/DAPC_DF1.csv")
+data <- read.csv(".")
 
 # Create the density plot
 density_plot <- ggplot(data, aes(x = Discriminant_Function_1, fill = Color)) +
