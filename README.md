@@ -3,7 +3,7 @@
 Analysis pipeline, scripts, intermediate data, and results supporting:
 
 > **Genome-Wide Analysis Reveals Altitude-Associated Divergence in a Color-Polymorphic Insect**
-> Topalan & Sağlam (2026)
+> Topalan et. al., 2026
 
 The full step-by-step pipeline (ANGSD/PCAngsd/NGSadmix/realSFS commands and R scripts, in
 execution order) is documented in [`docs/Analyses_Pipeline_Topalan_Saglam_2026.pdf`](docs/Analyses_Pipeline_Topalan_Saglam_2026.pdf).
