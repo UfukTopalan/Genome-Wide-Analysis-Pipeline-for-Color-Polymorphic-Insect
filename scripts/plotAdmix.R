@@ -1,7 +1,12 @@
+# Author(s): Ufuk Topalan, [Supervisor Name]
+# Written for: Genome-Wide Analysis Reveals Altitude-Associated
+#              Divergence in a Color-Polymorphic Insect (Topalan & Sağlam, 2026)
+# Repository: https://github.com/UfukTopalan/Genome-Wide-Analysis-Pipeline-for-Color-Polymorphic-Insect
+# ------------------------------------------------------------------
 ## admixture_plot_isophya.R
 
 
-setwd("/home/ismail/Research/isophya/admixture/")
+setwd(".")
 
 library(tidyverse)
 library(cowplot)
