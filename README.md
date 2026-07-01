@@ -38,7 +38,7 @@ execution order) is documented in [`docs/Analyses_Pipeline_Topalan_Saglam_2026.p
 │   ├── genotypes/            # Called genotypes (isophya71.geno.tsv)
 │   └── metadata/             # Sample/population info (.info, .clst) and pairwise pop combinations
 │
-└── results/
+└── file/
     ├── admixture/            # NGSadmix likelihoods across K runs
     ├── fst/                  # Pairwise Fst tables (all sites, neutral, adaptive)
     ├── diversity/            # Theta/diversity statistics (all, neutral, adaptive)
