@@ -1,6 +1,7 @@
 #!/usr/bin/Rscript
 # Usage: Rscript -i infile.covar -c component1-component2 -a annotation.file -o outfile.eps
-#modified from https://github.com/mfumagalli/ngsTools/blob/master/Scripts/plotPCA.R
+
+#Modified from https://github.com/mfumagalli/ngsTools/blob/master/Scripts/plotPCA.R
 
 library(optparse)
 library(ggplot2)
